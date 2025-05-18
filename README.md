@@ -1,16 +1,12 @@
 # flutter_car_installment_calculator
 
-A new Flutter project.
+#Splash Page#
+<img src="https://github.com/user-attachments/assets/19f84324-5ac0-479f-be99-0dc28adb5490" width="300">
 
-## Getting Started
+#Input Page#
+<img src="https://github.com/user-attachments/assets/493ce855-58f5-45ee-9d67-f13ff347e9d2" width="300">
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/user-attachments/assets/91540e3f-5933-49b3-9e32-b360f83dcea0" width="300">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Result Page#
+<img src="https://github.com/user-attachments/assets/237c6fe9-d9f8-472a-8b55-74bc29382491" width="300">
